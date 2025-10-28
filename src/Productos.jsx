@@ -9,7 +9,7 @@ export default function Productos() {
     <div className="productos-container">
       <h2 className="productos-title">Lista de productos</h2>
       <div className="productos-grid">
-          {/* Producto de ejemplo: */}
+          {/* Producto de ejemplo:
           <div className="producto-card">
             <img
               src={}
@@ -22,7 +22,7 @@ export default function Productos() {
             <p className="producto-rating">
               ⭐
             </p>
-          </div>
+          </div> */}
       </div>
     </div>
   );
